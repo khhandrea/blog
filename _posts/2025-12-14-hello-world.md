@@ -1,6 +1,6 @@
 ---
 title: 첫 번째 블로그 글입니다
-date: 2025-12-14 15:00:00 +0900
+date: 2025-12-14 03:00:00 +0900
 categories: [General, Log]
 tags: [hello, writing]
 ---
