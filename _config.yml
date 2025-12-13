@@ -18,15 +18,11 @@ github:
 twitter:
   username: twitter_username # change to your Twitter username
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: freude_kim
+  name: Hwanhee Kim # Default author of the posts and the copyright
   email: khhandrea@gmail.com # change to your email address
   links:
     - https://github.com/khhandrea
-    - https://twitter.com/freude_kim
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
