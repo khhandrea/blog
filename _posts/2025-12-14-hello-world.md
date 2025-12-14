@@ -2,10 +2,10 @@
 title: 첫 번째 블로그 글입니다
 date: 2025-12-14 03:00:00 +0900
 categories: [Misc]
-tags: [hello, writing]
+tags: []
 
 image:
-    path: assets/img/posts/2025-12-14-hello-world/long-tailed-tit.jpg
+    path: assets/img/posts/2025-12-14-hello-world/long-tailed-tit-thumbnail.png
     alt: 흰머리오목눈이
 ---
 
@@ -111,5 +111,5 @@ import torch
 
 [하이퍼링크](https://github.com/khhandrea)입니다.
 
-![흰머리오목눈이](assets/img/posts/2025-12-14-hello-world/long-tailed-tit.jpg)
+![흰머리오목눈이](assets/img/posts/2025-12-14-hello-world/long-tailed-tit.png)
 _캡션입니다._
